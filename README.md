@@ -33,6 +33,14 @@ This project demonstrates the use of object-oriented programming, file handling,
 * The application automatically creates a data file (`holidays.dat`) when saving data.
 * Input validation is implemented to ensure correct user input.
 
+## Example Output
+
+### Adding and Viewing Holidays
+![Add and View](screenshot1.png)
+
+### Updating a Holiday
+![Update Holiday](screenshot2.png)
+
 ## Author
 
 Cassiana de Oliveira
